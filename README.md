@@ -1,2 +1,2 @@
 # culminatingtask
-ICS3U Culminating Project
+ICS3U Culminating Project - Candyland Text-based Game
